@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hello, I'm Emil
+
+# 👷‍♂️
+I'm a web developer, working in the audiobook production business.
 
 <!--
 **emilsall/emilsall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
